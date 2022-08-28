@@ -32,6 +32,7 @@ function execute(){
     else{
         output.style.color = "white";
         output.innerText = "No Pain No Gain"
+        //no gain
 
     }
 }
